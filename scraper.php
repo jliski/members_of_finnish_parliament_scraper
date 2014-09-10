@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 // Get all members of finnish parliament.
 // From: http://www.eduskunta.fi/thwfakta/hetekau/hex/hxent.htm 
